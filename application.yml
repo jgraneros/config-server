@@ -5,5 +5,4 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://discovery:8761/eureka/
-  instance:
-    hostname: localhost
+
