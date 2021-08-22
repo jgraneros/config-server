@@ -3,6 +3,5 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://laughing_austin:8761/eureka/
-  instance:
-    hostname: laughing_austin
+      defaultZone: http://127.0.0.1:8761/eureka/
+  
